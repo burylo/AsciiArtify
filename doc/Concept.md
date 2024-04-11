@@ -37,4 +37,5 @@
 #### Minikube
 
 <video src='https://asciinema.org/a/653588' width=180/>
+
 [![asciicast](https://asciinema.org/a/653588.svg)](https://asciinema.org/a/653588)
