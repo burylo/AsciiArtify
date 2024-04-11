@@ -35,7 +35,7 @@
 ## Демонстрації
 Спросіб підняття k8s кластера та запуск розгортання
 #### Minikube
+[![Minicube](https://asciinema.org/a/653588.svg)](https://asciinema.org/a/653588)
 
 <video src='https://asciinema.org/a/653588' width=180/>
 
-[![asciicast](https://asciinema.org/a/653588.svg)](https://asciinema.org/a/653588)
