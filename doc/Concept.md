@@ -36,3 +36,6 @@
 Спросіб підняття k8s кластера та запуск розгортання
 #### Minikube
 [![Minicube](./minikube.gif)](https://asciinema.org/a/653588)
+
+#### K3D
+[![K3D](./k3d.gif)](https://asciinema.org/a/653622)
