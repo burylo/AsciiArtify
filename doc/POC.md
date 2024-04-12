@@ -19,4 +19,4 @@
     https://localhost:8080
 
 #### Демо доступу до ArgoCD Web UI
-[![ArgoCD_POC](./ArgoPOC.gif)]
+[![ArgoCD_POC](./ArgoPOC.gif)]()
