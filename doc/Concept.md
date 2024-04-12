@@ -35,10 +35,10 @@
 ## Демонстрації
 Спросіб підняття k8s кластера та запуск розгортання
 #### Minikube
-[![Minicube](./minikube.gif)](https://asciinema.org/a/653588)
+[![Minicube](./gif/minikube.gif)](https://asciinema.org/a/653588)
 
 #### K3D
-[![K3D](./k3d.gif)](https://asciinema.org/a/653622)
+[![K3D](./gif/k3d.gif)](https://asciinema.org/a/653622)
 
 #### KinD
-[![KinD](./kind.gif)](https://asciinema.org/a/653632)
+[![KinD](./gif/kind.gif)](https://asciinema.org/a/653632)
